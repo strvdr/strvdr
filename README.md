@@ -25,20 +25,18 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://media1.tenor.com/m/PqFx3thZmfYAAAAd/roku-vi.gif"  />
-
-###
-
-<p align="center">Hello world! <br>Devlog: https://strydr.net<br>Play Kirin: https://lichess.org/KirinChessBot</p>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/9tvqtt0jbhec4u1q3hi0e6l3d">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=9tvqtt0jbhec4u1q3hi0e6l3d&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/PqFx3thZmfYAAAAd/roku-vi.gif"  />
+
+###
+
+<p align="right">Hello world! <br>Devlog: https://strydr.net<br>Play Kirin: https://lichess.org/KirinChessBot</p>
 
 ###
